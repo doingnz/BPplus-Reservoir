@@ -28,6 +28,7 @@
 %  v1.0beta (23/05/20)  updated Savitzky Golay estimation of derivatives,
 %  plus a few minor bug fixes. Now better aligned with bRes_sp (Sphygmocor)
 %  v1.01beta 11/07/21 additional information on variables thanks to Richard Scott.
+% Current version frozen as beta 1
 %%%%%%%%%%%%%%%% 
 %% m files required to be in directory
 % ai_v1
